@@ -20,7 +20,7 @@
       <link>http://localhost:1313/readme/</link>
       <pubDate>Mon, 10 Jun 2024 22:05:56 +0200</pubDate>
       <guid>http://localhost:1313/readme/</guid>
-      <description>Idea Sometimes I come across a funny quote or even think of one myself. This is the place where I keep them.&#xA;Hints You may use emojis such as &amp;#x1f433; </description>
+      <description>Idea Sometimes I come across a funny quote or even think of one myself. This is the place where I keep them.&#xA;Contribute Just clone this repo and add a new post to posts (be consistent with the file names).&#xA;git clone git@github.com:dheimgartner/hugo-echo.git Hints You may use emojis such as &amp;#x1f433; </description>
     </item>
   </channel>
 </rss>
